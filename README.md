@@ -4,7 +4,7 @@
 - 👀 I’m interested in a LOT of things but mainly fascinated by Machine Learning, Natural Language Processing(NLP) and Conversation Design!
 - 🌱 I’m currently learning Julia while also working on my Python and Java skills.
 - ✨ Pronouns: She/Her
-- Fun Facts: I love the rain 🌧️ (even though I complain about it half the time), play the violin 🎻 and have been trying to 'perfect' my French since 2020.
+- 🔥 Fun Facts: I love the rain 🌧️ (even though I complain about it half the time), play the violin 🎻 and have been trying to 'perfect' my French since 2020.
 - 📫 How to reach me: https://www.linkedin.com/in/edidiongetetim/
 
 
