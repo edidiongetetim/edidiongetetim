@@ -1,11 +1,14 @@
-# Hi!👋  
+### Hi there. I'm Edidiong👋  
 
-- 😃 My name is Edidiong but most people just call me Didi
-- 👀 I’m interested in a LOT of things but mainly fascinated by Machine Learning, Natural Language Processing(NLP) and Conversation Design!
-- 🌱 I’m currently learning Julia while also working on my Python and Java skills.
+- 👀 I’m interested in a LOT of things but mainly fascinated by Machine Learning, NLP and Conversation Design!
+- 🌱 I’m currently learning Julia and also working on improving my Python and Java skills.
+- ⚡ I'm also in the process rediscovering my love for books, learning and growth.  
 - ✨ Pronouns: She/Her
 - 🔥 Fun Facts: I love the rain 🌧️, play the violin 🎻 and have been trying to 'perfect' my French since 2020.
-- 📫 How to reach me: https://www.linkedin.com/in/edidiongetetim/
+- 🤝 Connect with me on: [LinkedIn](https://www.linkedin.com/in/edidiongetetim/)
+- 📫 You can also find and learn more about me on: 
+  - [Medium](edidiongetetim.medium.com)
+  - [Substack](https://edidiongetetim.substack.com)
 
 
 <!---
