@@ -1,6 +1,6 @@
 ### Hi there. I'm Edidiong👋  
 
-- 🌍 I’m interested in a LOT of things but mainly fascinated by Machine Learning, NLP and Conversation Design!
+- 🌍 I’m interested in a LOT of things but mainly fascinated by Machine Learning, NLP, Conversation Design and society!
 - 🌱 I’m currently learning Julia and also working on improving my Python and Java skills.
 - ⚡ I'm also in the process rediscovering my love for books, learning and growth.  
 - ✨ Pronouns: She/Her
