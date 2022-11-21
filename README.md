@@ -5,7 +5,8 @@
 - ⚡ I'm also in the process rediscovering my love for books, learning and growth.  
 - ✨ Pronouns: She/Her
 - 🔥 Fun Facts: I love the rain 🌧️, play the violin 🎻 and have been trying to 'perfect' my French since 2020.
-- 🤝 Connect with me on: [LinkedIn](https://www.linkedin.com/in/edidiongetetim/)
+- 🤝 Connect with me on:
+   - [LinkedIn](https://www.linkedin.com/in/edidiongetetim/)
 - 📫 You can also find and learn more about me on: 
   - [Medium](edidiongetetim.medium.com)
   - [Substack](https://edidiongetetim.substack.com)
