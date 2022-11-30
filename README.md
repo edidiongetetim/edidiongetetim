@@ -8,7 +8,7 @@
 - 🤝 Connect with me on:
    - [LinkedIn](https://www.linkedin.com/in/edidiongetetim/)
 - 📫 You can also find and learn more about me on: 
-  - [Medium](edidiongetetim.medium.com)
+  - [Medium](https://edidiongetetim.medium.com)
   - [Substack](https://edidiongetetim.substack.com)
 
 
