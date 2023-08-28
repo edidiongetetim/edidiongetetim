@@ -2,7 +2,7 @@
 
 
 - 🌍 Currently a Software Engineering student @CarletonU learning by building in Data Science, Quantitative Research and Conversational AI Design!
-- Taking my Python, Java and C/C++ skills to the next level while also learning Swift (send help!).
+- 💻 Honing my Python, Java and C/C++ skills while also learning Swift (send help :cold_sweat:).
 - 🤝 Connect with me on:
    - [LinkedIn](https://www.linkedin.com/in/edidiongetetim/)
 - 📫 You can also find and learn more about me on: 
