@@ -1,13 +1,8 @@
-### Hi there. I'm Edidiong👋  
+### Hi! Welcome to my code exploration space. I'm Edidiong👋  
 
 
-<!---
-
-- 🌍 Currently a Software Engineering student @CarletonU learning and building projects in Data Science, Quantitative Research and Conversational AI Design!
-- 🌱 I’m currently working on improving my Python and Java skills.
-- ⚡ I'm also in the process rediscovering my love for exploring and creating worlds as well as experiences through reading and writing.
-- ✨ Pronouns: She/Her
-- 🔥 Fun Facts: I love the rain 🌧️, play the violin 🎻 and have been trying to 'perfect' my French since 2020.
+- 🌍 Currently a Software Engineering student @CarletonU learning by building in Data Science, Quantitative Research and Conversational AI Design!
+- Taking my Python, Java and C/C++ skills to the next level while also learning Swift (send help!).
 - 🤝 Connect with me on:
    - [LinkedIn](https://www.linkedin.com/in/edidiongetetim/)
 - 📫 You can also find and learn more about me on: 
