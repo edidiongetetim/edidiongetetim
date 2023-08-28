@@ -3,9 +3,9 @@
 
 <!---
 
-- 🌍 I’m interested in a LOT of things but mainly fascinated by Machine Learning, NLP, Conversation Design and society!
-- 🌱 I’m currently learning Julia and also working on improving my Python and Java skills.
-- ⚡ I'm also in the process rediscovering my love for books, learning and growth.  
+- 🌍 Currently a Software Engineering student @CarletonU learning and building projects in Data Science, Quantitative Research and Conversational AI Design!
+- 🌱 I’m currently working on improving my Python and Java skills.
+- ⚡ I'm also in the process rediscovering my love for exploring and creating worlds as well as experiences through reading and writing.
 - ✨ Pronouns: She/Her
 - 🔥 Fun Facts: I love the rain 🌧️, play the violin 🎻 and have been trying to 'perfect' my French since 2020.
 - 🤝 Connect with me on:
