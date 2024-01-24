@@ -2,14 +2,16 @@
 
 
 - 🤖 Currently a Software Engineering student @CarletonU learning by building in Data Science and Conversational AI Design!
-- 👩‍💻 Honing my Python, Java and C/C++ skills while also learning Swift.
+- 👩‍💻 Mostly brushing up on C/C++ skills and learning Swift right now.
 - 🤝 Connect with me on:
    - [LinkedIn](https://www.linkedin.com/in/edidiongetetim/)
-- You can also find and learn more about me on: 
-  - [Medium](https://edidiongetetim.medium.com)
-  - [Substack](https://edidiongetetim.substack.com)
 
 <!---
 edidiongetetim/edidiongetetim is a ✨ ⚡✨special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+- You can also find and learn more about me on: 
+  - [Medium](https://edidiongetetim.medium.com)
+  - [Substack](https://edidiongetetim.substack.com)
+
+
 --->
