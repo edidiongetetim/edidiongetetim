@@ -1,4 +1,4 @@
-### Hi! Welcome to my digital exploration archive. I'm Edidiong👋  
+### Hi! Welcome to my digital archive. I'm Edidiong👋  
 
 
 - 🤖 Currently a Software Engineering student @CarletonU learning by building in Data Science and Conversational AI Design!
